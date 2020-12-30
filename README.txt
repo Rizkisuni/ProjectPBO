@@ -3,4 +3,4 @@ Nama : Muhammad Adil
 NIM : 1908107010086
 Kelas : PBO-B
 Nama Kelompok : GASKEUN
-Judul Project : ATM banking Gaskeun
+Judul Project : ATM Gaskeun Bank
