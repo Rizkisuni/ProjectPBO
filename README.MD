@@ -9,8 +9,9 @@
 - github pada lokal pc untuk clone (bila diperlukan)
 
 ### Deskripsi Program
-    Program ini bernama ```Atm Bank Gaskeun``` yang mana terdepat beberapa menu untuk di fungsikan pada atm umumnya, ada menu login, lalu terdapat cek saldo, simpan uang,
-    transfer, reset data Atm dan button keluar untuk close program atm.
+    Program ini bernama ```Atm Bank Gaskeun``` yang mana terdepat beberapa menu untuk di fungsikan pada atm umumnya,
+    ada menu login, lalu terdapat cek saldo, simpan uang, transfer, reset data Atm dan button keluar untuk close
+    program atm.
 
     -Pada menu Login terdapat Judul,waktu dan tanggal, username input dan password
         1. untuk username nya gunakan "Admin"
@@ -27,15 +28,15 @@
 
 ### clone github
 Cara 1 :
-    1. buka folder lokal yang ingin diletakkan folder yanga akn di git
-    2. klik kanan pilih gitbash
-    3. ketik ```git clone https://github.com/Rizkisuni/ProjectPBO/tree/Fazil```
-    4. tunggu proses selesai.
+    - buka folder lokal yang ingin diletakkan folder yanga akn di git
+    - klik kanan pilih gitbash
+    - ketik ```git clone https://github.com/Rizkisuni/ProjectPBO/tree/Fazil```
+    - tunggu proses selesai.
 
 Cara 2 :
-    1. buka link ```https://github.com/Rizkisuni/ProjectPBO/tree/Fazil``
-    2. tekan pada tombol hijau tulisan ```code`` lalu pilih download zip
-    3. tentukan folder yang kan disimpan
+    - buka link ```https://github.com/Rizkisuni/ProjectPBO/tree/Fazil``
+    - tekan pada tombol hijau tulisan ```code`` lalu pilih download zip
+    - tentukan folder yang kan disimpan
 
 #### Compile dan Run
 - jika pada ide maka open folder/file lalu run di login.java
@@ -47,8 +48,8 @@ Cara 2 :
  ```java nama_file```
 
 ### sumber stok ilustrator dan font
-    1. ```dafont.com```
-    2. ```undraw.com```
+    1. dafont.com
+    2. undraw.com
 
 :grinning:
 
