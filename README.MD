@@ -9,9 +9,9 @@
 - github pada lokal pc untuk clone (bila diperlukan)
 
 ### Deskripsi Program
-    Program ini bernama ```Atm Bank Gaskeun``` yang mana terdepat beberapa menu untuk di fungsikan pada atm umumnya,
-    ada menu login, lalu terdapat cek saldo, simpan uang, transfer, reset data Atm dan button keluar untuk close
-    program atm.
+    Program ini bernama ```Atm Bank Gaskeun``` yang mana terdepat beberapa menu
+    untuk di fungsikan pada atm umumnya, ada menu login, lalu terdapat cek saldo, 
+    simpan uang, transfer, reset data Atm dan button keluar untuk close program atm.
 
     -Pada menu Login terdapat Judul,waktu dan tanggal, username input dan password
         1. untuk username nya gunakan "Admin"
@@ -36,7 +36,7 @@ Cara 1 :
 Cara 2 :
     - buka link ```https://github.com/Rizkisuni/ProjectPBO/tree/Fazil``
     - tekan pada tombol hijau tulisan ```code`` lalu pilih download zip
-    - tentukan folder yang kan disimpan
+    - tentukan folder yang kan disimpan.
 
 #### Compile dan Run
 - jika pada ide maka open folder/file lalu run di login.java
