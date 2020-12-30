@@ -26,7 +26,7 @@
         5. reset data
         6. close prorgam/keluar
 
-### clone github
+### Clone github
 Cara 1 :
     - buka folder lokal yang ingin diletakkan folder yanga akn di git
     - klik kanan pilih gitbash
@@ -38,7 +38,7 @@ Cara 2 :
     - tekan pada tombol hijau tulisan ```code`` lalu pilih download zip
     - tentukan folder yang kan disimpan.
 
-#### Compile dan Run
+### Compile dan Run
 - jika pada ide maka open folder/file lalu run di login.java
 - jika menggunakan cmd/terminal maka 
  
